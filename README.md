@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deuds
 - 👀 I’m interested in IaC
 - 🌱 I’m currently learning Ansible and Terraform
-- 💞️ I’m looking to collaborate on nothing in first time, I have to learn before
+- 💞️ I don’t looking to collaborate at this time, I have to learn before
 - 📫 How to reach me : no reach me
 
 <!---
